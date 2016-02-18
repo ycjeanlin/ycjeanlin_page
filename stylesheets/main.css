@@ -45,6 +45,7 @@ nav a {
 
 .contact ul {
     list-style: none;
+    padding: 0px;
 }
 
 .contact li {
