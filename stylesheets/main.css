@@ -29,6 +29,7 @@ header p {
 
 nav p {
   display: inline;
+  color: #ddd;
 }
 
 .about{
@@ -40,6 +41,11 @@ nav p {
 
 .intro {
   font-size: 20px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
 }
 
 footer ul {
