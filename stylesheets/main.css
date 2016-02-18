@@ -33,6 +33,10 @@ nav a {
     font-size: 18px;
 }
 
+.title{
+    text-align: center;
+}
+
 .about{
   display: flex;
   background-size: cover;
