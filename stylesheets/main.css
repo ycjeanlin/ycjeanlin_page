@@ -1,3 +1,6 @@
+.container {
+    width: 80%;
+}
 header {
     background-color: #222;
     width: 100%;
@@ -21,6 +24,7 @@ header p {
   padding: 0 20px;
   margin: 0;
 }
+
 nav p {
   display: inline;
 }
@@ -33,9 +37,7 @@ nav p {
 }
 
 .intro {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
+  font-size: 20px;
 }
 
 footer ul {
