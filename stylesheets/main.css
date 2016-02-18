@@ -51,6 +51,10 @@ nav p {
     display: inline;
 }
 
+.contact img {
+    width: 40px;
+}
+
 footer {
   font-size: 12px;
   padding: 20px 0;
