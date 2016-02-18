@@ -25,11 +25,11 @@ header nav {
 header p {
   padding: 0 20px;
   margin: 0;
+  display: inline;
 }
 
-nav p {
-  display: inline;
-  color: #ddd;
+nav a {
+    color: #ddd;
 }
 
 .about{
@@ -56,15 +56,8 @@ nav p {
 }
 
 footer {
-  font-size: 12px;
-  padding: 20px 0;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 0px;
 }
 
-footer ul {
-  list-style: none;
-}
-
-footer .col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
-}
