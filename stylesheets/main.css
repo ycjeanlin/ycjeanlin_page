@@ -2,56 +2,23 @@ nav p {
   display: inline;
 }
 
-.about img{
-  
-}
-
-.jumbotron {
-  background-image:url('http://www.sanfrancisco.travel/sites/sftraveldev.prod.acquia-sites.com/files/SanFrancisco_0.jpg');
-  height: 500px;
-  background-repeat: no-repeat;
+.about{
+  display: flex;
   background-size: cover;
-  text-align: center;
+  align-items: center;
 }
 
-.jumbotron .container {
-  position: relative;
-  top:100px;
-  
+.intro {
+  width: 80%;
 }
 
-.jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
-  
-}
 
-.jumbotron p {
-  font-size: 20px;
-  color: #fff;
-}
-
-.neighborhood-guides {
-    backgound-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
-}
-
-.learn-more {
-  background-color: #f7f7f7;
-}
-
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.learn-more a {
-  color: #00b0ff;
-}
 
 footer ul {
   list-style: none;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
 }
