@@ -43,6 +43,14 @@ nav p {
   font-size: 20px;
 }
 
+.contact ul {
+    list-style: none;
+}
+
+.contact li {
+    display: inline;
+}
+
 footer {
   font-size: 12px;
   padding: 20px 0;
