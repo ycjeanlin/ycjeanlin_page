@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about/
+permalink: /about_md/
 ---
 
 Some information about you!
