@@ -83,3 +83,8 @@ permalink: /cv/
     </div>
 </section>
 
+<div class="container">
+    <p class="pull-right">last update: 2016-02-24</p>
+</div>
+
+
