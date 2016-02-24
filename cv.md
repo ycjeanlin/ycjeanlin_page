@@ -12,7 +12,7 @@ permalink: /cv/
 
 <section class="education">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-graduation-cap"></span>Education</h3>
+        <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
         <div class="row">
             <h4 class="col-sm-4">Jan 2014 - Present</h4>
             <div class="col-sm-8">
@@ -39,7 +39,7 @@ permalink: /cv/
 
 <section class="publication">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-book"></span>Publication</h3>
+        <h3 class="categories"><span class="fa fa-book"></span> Publication</h3>
         <div class="row">
             <h4 class="col-sm-4">May 2015</h4>
             <div class="col-sm-8">
@@ -51,7 +51,7 @@ permalink: /cv/
 
 <section class="work">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-briefcase"></span>Experiemce</h3>
+        <h3 class="categories"><span class="fa fa-briefcase"></span> Experiemce</h3>
         <div class="row">
             <h4 class="col-sm-4">July 2015 - Aug 2015</h4>
             <div class="col-sm-8">
@@ -78,7 +78,7 @@ permalink: /cv/
 
 <section class="honor">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-trophy"></span>Honors & Awards</h3>
+        <h3 class="categories"><span class="fa fa-trophy"></span> Honors & Awards</h3>
     </div>
 </section>
 
