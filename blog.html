@@ -13,7 +13,7 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <p><span class="fa fa-calendar"></span>{{ page.date | date: "%B %e, %Y" }}</p>
       <div class="entry">
         {{ post.content | strip_html | truncatewords:50}}
       </div>
