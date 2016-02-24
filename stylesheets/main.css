@@ -1,3 +1,16 @@
+body{
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: museo-slab, Georgia, "Times New Roman", Times, serif;
+}
+
 header {
     background-color: #222;
     width: 100%;
@@ -65,7 +78,8 @@ nav a {
 
 .post {
     display: block;
-    padding: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-bottom: 20px;
     line-height: 1.42857143;
     background-color: #fff;
@@ -76,3 +90,6 @@ nav a {
     transition: border .2s ease-in-out;
 }
 
+.entry {
+  font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
