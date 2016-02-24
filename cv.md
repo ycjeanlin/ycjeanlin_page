@@ -41,9 +41,9 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories">Publication</h3>
         <div class="row">
-            <h4 class="col-sm-4">May 2015 - PAKDD</h4>
+            <h4 class="col-sm-4">May 2015</h4>
             <div class="col-sm-8">
-                <p><u>Ying Chun Lin</u>, Cheng-Wei Wu, Vincent S. Tseng, Mining High Utility Itemsets in Big Data, In <i>Proceedings of the International Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>, pp.649 -661 , 2015 </p>
+                <p><u>Ying Chun Lin</u>, Cheng-Wei Wu, Vincent S. Tseng, Mining High Utility Itemsets in Big Data, In <i>Proceedings of the International Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>, pp.649 - 661. (PAKDD '15)</p>
             </div>
         </div>
     </div>
