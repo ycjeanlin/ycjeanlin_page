@@ -2,17 +2,17 @@
 layout: default
 ---
 <div class="page-header">
-  <h1>{{ post.title }}<small></small></h1>
+    <h1>{{ page.title }}<small></small></h1>
 </div>
-<article class="post_content">
+<article class="post">
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    <div class="entry">
+        {{ content }}
+    </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
-  {% include disqus.html %}
+    {% include disqus.html %}
 </article>
