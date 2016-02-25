@@ -10,6 +10,7 @@ permalink: /cv/
     </div>
 </section>
 
+
 <section class="education">
     <div class="container">
         <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
@@ -37,6 +38,7 @@ permalink: /cv/
     </div>
 </section>
 
+
 <section class="publication">
     <div class="container">
         <h3 class="categories"><span class="fa fa-book"></span> Publication</h3>
@@ -48,6 +50,7 @@ permalink: /cv/
         </div>
     </div>
 </section>
+
 
 <section class="work">
     <div class="container">
@@ -76,11 +79,20 @@ permalink: /cv/
     </div>
 </section>
 
+
 <section class="honor">
     <div class="container">
         <h3 class="categories"><span class="fa fa-trophy"></span> Honors & Awards</h3>
+        <div class="row">
+            <h4 class="col-sm-4">Feb 2015</h4>
+            <div class="col-sm-8">
+                <p><b>Big Data Analytics for Semiconductor Manufaturing</b></p>
+                <p>the Award of Excellence in the TSMC Big Data Competition</p>
+            </div>
+        </div>
     </div>
 </section>
+
 
 <div class="container">
     <p class="pull-right">last update: 2016-02-24</p>
