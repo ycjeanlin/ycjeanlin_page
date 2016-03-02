@@ -70,7 +70,7 @@ permalink: /cv/
             </div>
         </div>
         <div class="row">
-            <h4 class="col-sm-4">Jan 2009 - July 2013</h4>
+            <h4 class="col-sm-4">Jan 2013 - July 2013</h4>
             <div class="col-sm-8">
                 <p><b>MRI Center @ National Cheng-Kung University, Taiwan</b></p>
                 <p>Software Engineer</p>
