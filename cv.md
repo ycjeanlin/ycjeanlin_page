@@ -54,12 +54,21 @@ permalink: /cv/
 
 <section class="work">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-briefcase"></span> Experiemce</h3>
+        <h3 class="categories"><span class="fa fa-briefcase"></span> Experience & Projects</h3>
         <div class="row">
             <h4 class="col-sm-4">July 2015 - Aug 2015</h4>
             <div class="col-sm-8">
                 <p><b>Yahoo Taiwan</b></p>
                 <p>Intern of Software engineering in Search Team</p>
+                <p>Worked for a project “Search Nearby” in which the search result is adjusted according to the ephemeral needs and location of users</p>
+            </div>
+        </div>
+        <div class="row">
+            <h4 class="col-sm-4">July 2014 - Dec 2014</h4>
+            <div class="col-sm-8">
+                <p><b>Industrial Technology Research Institute, Taiwan</b></p>
+                <p>Research Assistant</p>
+                <p>Worked on a research topic “An Efficient Algorithm for On-Shelf Sequential Pattern Mining”</p>
             </div>
         </div>
         <div class="row">
@@ -67,6 +76,7 @@ permalink: /cv/
             <div class="col-sm-8">
                 <p><b>NetDB Lab @ National Cheng-Kung University, Taiwan</b></p>
                 <p>Research Assistant</p>
+                <p>Studied the topic of how to disseminate messages via mobile P2P network</p>
             </div>
         </div>
         <div class="row">
@@ -74,6 +84,7 @@ permalink: /cv/
             <div class="col-sm-8">
                 <p><b>MRI Center @ National Cheng-Kung University, Taiwan</b></p>
                 <p>Software Engineer</p>
+                <p>Implemented and maintained the center website</p>
             </div>
         </div>
     </div>
