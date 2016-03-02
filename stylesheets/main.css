@@ -25,6 +25,7 @@ header h1 {
 header nav {
     display: flex;
     justify-content: flex-end;
+    margin-top: 5px;
 }
 
 header p {
