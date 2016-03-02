@@ -6,7 +6,7 @@ permalink: /cv/
 <section class="title">
     <div class="container">
         <h1>CURRICULUM VITAE</h1>
-        <p><a href="#">PDF version download</a></p>
+        <p><a href="{{ site.baseurl }}/doc/CV.pdf">PDF version download</a></p>
     </div>
 </section>
 
