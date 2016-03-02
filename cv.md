@@ -41,7 +41,7 @@ permalink: /cv/
 
 <section class="publication">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-book"></span> Publication</h3>
+        <h3 class="categories"><span class="fa fa-book"></span> Publications</h3>
         <div class="row">
             <h4 class="col-sm-4">May 2015</h4>
             <div class="col-sm-8">
@@ -86,7 +86,7 @@ permalink: /cv/
         <div class="row">
             <h4 class="col-sm-4">Feb 2015</h4>
             <div class="col-sm-8">
-                <p><b>Big Data Analytics for Semiconductor Manufaturing</b></p>
+                <p><b>Big Data Analytics for Semiconductor Manufacturing</b></p>
                 <p>the Award of Excellence in the TSMC Big Data Competition</p>
             </div>
         </div>
