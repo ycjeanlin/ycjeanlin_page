@@ -12,7 +12,7 @@ summary: The author talked about the second smartphone revolution in the develop
 <h2>Notes</h2>
 <ul>
     <li>
-        <p>Because 2.5bn people live outside the developed and wealthy parts of the world, they will look to their smartphones to deliver essential services that they have not been receiveing at all - from web or from offline world.</p>
+        <p>Because 2.5bn people live outside the developed and wealthy parts of the world, they will look to their smartphones to deliver essential services that they have not been receiving at all - from web or from offline world.</p>
     </li>
     <li>
         <p>Those services are like financial services, healthcare services, educational services, transportaion services and the like.</p>
