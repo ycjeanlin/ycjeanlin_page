@@ -8,6 +8,7 @@ month: 3
 day: 15
 published: true
 summary: The author talked about the second smartphone revolution in the developing country.
+permalink: /draft/
 ---
 <h2>Notes</h2>
 <ul>
