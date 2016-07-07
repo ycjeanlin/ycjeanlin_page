@@ -15,7 +15,7 @@ permalink: /cv/
     <div class="container">
         <h3 class="categories"><span class="fa fa-graduation-cap"></span> Education</h3>
         <div class="row">
-            <h4 class="col-sm-4">Jan 2014 - Present</h4>
+            <h4 class="col-sm-4">Jan 2014 - July 2016</h4>
             <div class="col-sm-8">
                 <p><b>National Cheng Kung University, Taiwan</b></p>
                 <p>Master of Science in Computer Science and Information Engineering</p>
