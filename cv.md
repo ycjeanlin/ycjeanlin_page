@@ -52,15 +52,15 @@ permalink: /cv/
 </section>
 
 
-<section class="work">
+<section class="publication">
     <div class="container">
-        <h3 class="categories"><span class="fa fa-briefcase"></span> Experience & Projects</h3>
+        <h3 class="categories"><span class="fa fa-flask"></span>Projects</h3>
         <div class="row">
-            <h4 class="col-sm-4">July 2015 - Aug 2015</h4>
+            <h4 class="col-sm-4">April 2016 - Present</h4>
             <div class="col-sm-8">
-                <p><b>Yahoo Taiwan</b></p>
-                <p>Intern of Software engineering in Search Team</p>
-                <p>Worked for a project “Search Nearby” in which the search result is adjusted according to the ephemeral needs and location of users</p>
+                <p><b>slice, USA</b></p>
+                <p><a href="https://www.slice.com/">https://www.slice.com/</a>
+                <p>Working on a research topic “User Segmenting with Temporal Factor for Targeted Advertising”</p>
             </div>
         </div>
         <div class="row">
@@ -69,6 +69,21 @@ permalink: /cv/
                 <p><b>Industrial Technology Research Institute, Taiwan</b></p>
                 <p>Research Assistant</p>
                 <p>Worked on a research topic “An Efficient Algorithm for On-Shelf Sequential Pattern Mining”</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="work">
+    <div class="container">
+        <h3 class="categories"><span class="fa fa-briefcase"></span> Work Experience</h3>
+        <div class="row">
+            <h4 class="col-sm-4">July 2015 - Aug 2015</h4>
+            <div class="col-sm-8">
+                <p><b>Yahoo Taiwan</b></p>
+                <p>Intern of Software engineering in Search Team</p>
+                <p>Worked for a project “Search Nearby” in which the search result is adjusted according to the ephemeral needs and location of users</p>
             </div>
         </div>
         <div class="row">
